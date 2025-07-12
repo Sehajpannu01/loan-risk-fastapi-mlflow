@@ -1,0 +1,10 @@
+.ipnyb_checkpoints/
+.env
+.virtual documents
+.anaconda_projects
+__pycache__/
+*.py[cod]
+*.log
+*.sqlite3
+*.pkl
+.DS_Store
